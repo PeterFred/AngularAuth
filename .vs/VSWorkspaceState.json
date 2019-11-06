@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ngApp",
+    "\\ngApp\\src",
+    "\\ngApp\\src\\app",
+    "\\ngApp\\src\\app\\events",
+    "\\ngApp\\src\\app\\login",
+    "\\ngApp\\src\\app\\register",
+    "\\ngApp\\src\\app\\special-events",
+    "\\server",
+    "\\server\\routes"
+  ],
+  "SelectedNode": "\\ngApp\\src\\app\\auth.service.ts",
+  "PreviewInSolutionExplorer": false
+}
